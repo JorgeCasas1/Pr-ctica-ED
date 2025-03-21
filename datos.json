@@ -1,0 +1,34 @@
+{
+    "empresa":"TechNova",
+    "fundacion":2005,
+    "sede":"Barcelona",
+    "empleados":[
+        "Laura Martinez",
+        "Carlos Perez",
+        "Andrea Gomez",
+        "David Herrera"
+    ],
+    "productos":[
+        {
+            "nombre":"SmartWatch X",
+            "categoria":"Tecnologia",
+            "precio": 199.99
+        },
+        {
+            "nombre":"auriculares Pro",
+            "categoria":"Audio",
+            "precio":149.50
+        },
+        {
+            "nombre":"Laptop Ultra",
+            "categoria":"Informatica",
+            "precio": 1299
+        }
+    ],
+    "cotiza": true,
+    "sedes":[
+        "Madrid",
+        "Lisboa",
+        "Paris"
+    ]
+}
